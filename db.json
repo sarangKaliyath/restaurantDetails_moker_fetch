@@ -1,0 +1,124 @@
+{
+  "details": [
+    {
+      "title": "Seafood paella",
+      "category": "Spanish",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F160929101749-essential-spanish-dish-paella-phaidon.jpg",
+      "price": "100",
+      "rating": "3",
+      "cash": true,
+      "card": false,
+      "upi": false,
+      "id": "4l4"
+    },
+    {
+      "title": "Som Tam",
+      "category": "Thai",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170302150230-som-tam.jpg",
+      "price": "1000",
+      "rating": "2",
+      "cash": true,
+      "card": false,
+      "upi": true,
+      "id": "67N"
+    },
+    {
+      "title": "Chicken Rice",
+      "category": "Singapore, Main Course",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170302150650-chicken-rice-singapore.jpg",
+      "price": "450",
+      "rating": "3",
+      "cash": true,
+      "card": true,
+      "upi": true,
+      "id": "67W"
+    },
+    {
+      "title": "Poutine",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F160516104039-ottawa-poutinefest-special-gourmet-poutine.jpg",
+      "category": "Canadian",
+      "price": "300",
+      "rating": "1",
+      "card": false,
+      "cash": false,
+      "id": "BzaiA03"
+    },
+    {
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170302143134-tofu.jpg",
+      "title": "Stinky Tofu",
+      "category": "South Asia",
+      "price": "1500",
+      "rating": "2",
+      "cash": true,
+      "card": true,
+      "id": "f3eDNxA"
+    },
+    {
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170920150817-chicken-parm.jpg",
+      "title": "Chicken Param",
+      "category": "Australia",
+      "rating": "4",
+      "id": "yiS0mjw"
+    },
+    {
+      "title": "Parma ham",
+      "category": "Italian",
+      "price": "2200",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170306134418-goi-cuon.jpg",
+      "rating": "3",
+      "cash": false,
+      "id": "J4vU0ov"
+    },
+    {
+      "title": "Goi Cuon",
+      "category": "Vietman",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170306134418-goi-cuon.jpg",
+      "price": "370",
+      "rating": "3",
+      "cash": false,
+      "card": false,
+      "upi": true,
+      "id": "laVZtB1kAnHeDARWoMTq3"
+    },
+    {
+      "title": "Fjatas",
+      "category": "Mexian",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170203151539-fajitas.jpg",
+      "price": "112",
+      "rating": "2",
+      "cash": false,
+      "card": false,
+      "upi": true,
+      "id": "Z4JTNn404m8SFpLGSkY8i"
+    },
+    {
+      "title": "Rhubarb Crumble",
+      "category": "English",
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/EXPS_CMBZ17_8435_C11_30_3b.jpg?resize=768,768",
+      "price": "400",
+      "rating": "",
+      "cash": false,
+      "card": true,
+      "upi": false,
+      "id": "eVQH_NbB--u1JXjMVImyS"
+    },
+    {
+      "title": "Oma’s apfelkuchen",
+      "category": "German",
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Oma-s-Apfelkuchen-Grandma-s-Apple-Cake-_EXPS_BW20_201499_E08_13_10b-2.jpg?resize=768,768",
+      "price": "150",
+      "rating": "4",
+      "cash": false,
+      "card": true,
+      "upi": false,
+      "id": "x44IXpjO3PODJRGm_bUg5"
+    },
+    {
+      "title": "Hazelnut Macarons",
+      "category": "French",
+      "price": "200",
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Hazelnut-Macarons_EXPS_HCA18_136963_B02_22_4b-6.jpg?resize=768,768",
+      "id": "hIDxu5R"
+    }
+  ]
+}
